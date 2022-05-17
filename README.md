@@ -10,7 +10,7 @@
 
 Контакты:
 - email: olyautrom@yandex.ru
-- telegram: @olyautrom
+- telegram: [@olyautrom](https://t.me/olyautrom)
 
 
 <!--

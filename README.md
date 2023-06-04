@@ -2,7 +2,7 @@
 
 I'm a data analyst
 
-👩‍💻 The repository [data_analyst](https://github.com/olyautrom/data_analyst) contains my training and third-party projects.
+👩‍💻 The repository [data_analyst](https://github.com/olyautrom/data_analyst) contains my training projects.
 
 Contacts:
 - email: olyautrom@yandex.ru

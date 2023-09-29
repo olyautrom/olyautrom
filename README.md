@@ -2,9 +2,9 @@
 
 I'm a data analyst
 
-👩‍💻 The repository [data_analyst_yandex_practicum](https://github.com/olyautrom/data_analyst_yandex_practicum) contains my training projects.
+- 👩‍💻 The repository [data_analyst_yandex_practicum](https://github.com/olyautrom/data_analyst_yandex_practicum) contains my training projects.
 
-💼 The repository [data_analyst_simble](https://github.com/olyautrom/data_analyst_simble) contains projects from work.
+- 💼 The repository [data_analyst_simble](https://github.com/olyautrom/data_analyst_simble) contains projects from work.
 
 Contacts:
 - email: olyautrom@yandex.ru
